@@ -2,86 +2,94 @@
 
 ## Round 1: First Line of Famous Matt’s Wikipedia Pages
 1. **Question 1**:  
-   - Surname:  Groening
-   - Year:  1959
+   - Surname:  Groening yes
+   - Year:  1959 no
 2. **Question 2**:  
-   - Surname:  Smith
-   - Year:  1985
+   - Surname:  Smith yes
+   - Year:  1985 no
 3. **Question 3**:  
-   - Surname:  Leblanc
-   - Year:  1970
+   - Surname:  Leblanc yes
+   - Year:  1970 no
 4. **Question 4**:  
-   - Surname:  Stone
-   - Year:  1971
+   - Surname:  Stone yes
+   - Year:  1971 yes
 5. **Question 5**:  
-   - Surname:  Johnson
-   - Year:  1982
+   - Surname:  Johnson no
+   - Year:  1982 no
 
+5/10
 ---
 
 ## Round 2: Picture Round 1 (Baby Pictures)
-1.  Calum
-2.  Brian
-3.  Guy
-4.  Matt P
-5.  Lalitha
-6.  Tom Hirsch
-7.  Gwion
-8.  Holly
-9.  Matt Heary
-10.  Supratik
-11. Priya
-12. James
+1.  Calum no
+2.  Brian no
+3.  Guy yes
+4.  Matt P no
+5.  Lalitha yes
+6.  Tom Hirsch NO
+7.  Gwion no
+8.  Holly yes
+9.  Matt Heary no
+10.  Supratik yes
+11. Priya yes
+12. James yes
+
+6/12
+
 ---
 
 ## Round 3: Music Mashups 1
 1. **Mashup 1**:  
-   - Artist:  LMFAO
-   - Song:  Sexy and i know it
-      - Artist:  Tears For Fears
-   - Song:  Shout
+   - Artist:  LMFAO no
+   - Song:  Sexy and i know it no
+      - Artist:  Tears For Fears yes
+   - Song:  Shout yes
 2. **Mashup 2**:  
-   - Artist:  Robbie williama
-   - Song: Feel
-      - Artist:   Sam Smith / Steve miller band originally
-   - Song:  The Joker
+   - Artist:  Robbie williama yes
+   - Song: Feel yes
+      - Artist:   Sam Smith / Steve miller band originally yes
+   - Song:  The Joker yes
 3. **Mashup 3**:  
-   - Artist:  Radiohead 
-   - Song:  No surprises
-      - Artist:  Louis Armstrong
-   - Song:  what a wonderful world
+   - Artist:  Radiohead yes
+   - Song:  No surprises yes
+      - Artist:  Louis Armstrong yes 
+   - Song:  what a wonderful world yes
 4. **Mashup 4**:  
-   - Artist:  Coldplay
-   - Song:  Fix You
-      - Artist:  John Lennon
-   - Song:  Imagine
+   - Artist:  Coldplay yes
+   - Song:  Fix You yes
+      - Artist:  John Lennon yes
+   - Song:  Imagine yes
 5. **Mashup 5**:  
-   - Artist:  Blur
-   - Song:  Song 2
-      - Artist:  Nirvana
-   - Song:  Smells like teen spirit
+   - Artist:  Blur yes
+   - Song:  Song 2 yes
+      - Artist:  Nirvana yes
+   - Song:  Smells like teen spirit yes
+
+18/20
 
 ---
 
 ## Round 4: Guess the Month 2024
 1. **Question 1**:  
-   - Month:  April
-   - Date:  07/04/2024
+   - Month:  April no
+   - Date:  07/04/2024 no
 2. **Question 2**:  
-   - Month:  November
-   - Date:  06/11/2024
+   - Month:  November yes
+   - Date:  06/11/2024 yes
 3. **Question 3**:  
-   - Month:  February
-   - Date:  03/02/2024
+   - Month:  February no
+   - Date:  03/02/2024 no
 4. **Question 4**:  
-   - Month:  August
-   - Date:  10/08/2024
+   - Month:  August no
+   - Date:  10/08/2024 no
 5. **Question 5**:  
-   - Month:  January
-   - Date:  13/1/2024,14/1/2024
+   - Month:  January no
+   - Date:  13/1/2024,14/1/2024 no
 6. **Question 6**:  
-   - Month:  March
-   - Date:  20/03/2024
+   - Month:  March yes
+   - Date:  20/03/2024 no
+
+4/12
 
 ---
 
