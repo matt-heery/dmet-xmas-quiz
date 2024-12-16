@@ -81,75 +81,75 @@ TOTAL 29
 1.  
 2.  
 3.  
-4.  
-5.  
-6.  
+4.  tom hirsch
+5.  gustav
+6.  holly
 7.  
-8.  
+8.  james baker
 9.  
-10.  
-11.
-12.
+10.  guy 
+11.  
+12.  matt price
 
 ---
 
 ## Round 6: Christmas Songs
 1. **Song 1**:  
    - Artist:  
-   - Song:  
+   - Song:  sleigh ride
 2. **Song 2**:  
-   - Artist:  
-   - Song:  
+   - Artist:  mariah carey
+   - Song:  all i want for christmas
 3. **Song 3**:  
-   - Artist:  
-   - Song:  
+   - Artist:  kelly clarkson
+   - Song:  underneath the tree
 4. **Song 4**:  
-   - Artist:  
-   - Song:  
+   - Artist:  the waitresses
+   - Song:  christmas wrapping
 5. **Song 5**:  
-   - Artist:  
-   - Song:  
+   - Artist:  arianne grande
+   - Song:  santa baby
 
 ---
 
 ## Round 7: General Knowledge
-1.  
-2.  
-3.  
+1.  turner
+2.  june
+3.  down
 4.  
-5.  
-6.  
+5.  1924
+6.  1660
 
 **Knockout Questions**:  
-1.  
-2.  
-3.  
-4.  
-5.  
+1.  police officer
+2.  requiem
+3.  mt fuji
+4.  iambic
+5.  christian bale
 6.  
 
 ---
 
 ## Round 8: Guess the Year for the Tech
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
+1.  1988
+2.  1989
+3.  1990
+4.  2001
+5.  2004
+6.  2006
+7.  2017
+8.  2022
 
 ---
 
 ## Round 9: Christmas Round
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
-9.  
-10.  
+1.  49
+2.  beatles
+3.  16
+4.  tom hanks
+5.  germany
+6.  kfc
+7.  czach
+8.  night
+9.  4
+10.  3pm
