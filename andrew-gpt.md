@@ -78,78 +78,83 @@
 ---
 
 ## Round 5: Picture Round 2 (WFH Set Up)
-1.  Heery
-2.  Gwion
-3.  James
-4.  Thomas Hirsch
-5.  Tom Hepworth
-6.  Holly
-7.  Oliver
-8.  Gustav
-9.  Andy Cook
-10.  Guy
-11. Lalitha
-12. Matt Price
+1.  Heery ❌
+2.  Gwion ❌
+3.  James ❌
+4.  Thomas Hirsch ✅
+5.  Tom Hepworth ✅
+6.  Holly ✅
+7.  Oliver ❌
+8.  Gustav ✅
+9.  Andy Cook ❌
+10.  Guy ✅
+11. Lalitha ✅
+12. Matt Price ✅
 
 ---
 
 ## Round 6: Christmas Songs
 1. **Song 1**:  
-   - Artist:  
-   - Song:  
+   - Artist:  ❌
+   - Song:  ❌
 2. **Song 2**:  
-   - Artist:  Mariah Carey
-   - Song:  All I want for Christmas is You
+   - Artist:  Mariah Carey ✅
+   - Song:  All I want for Christmas is You ✅
 3. **Song 3**:  
-   - Artist:  Kelly Clarkson
-   - Song:  Under the Tree
+   - Artist:  Kelly Clarkson ❌
+   - Song:  Under the Tree ❌
 4. **Song 4**:  
-   - Artist: 
-   - Song:  Christmas Wrapping
+   - Artist: ❌
+   - Song:  Christmas Wrapping ✅
 5. **Song 5**:  
-   - Artist: Sabrina Carpenter 
-   - Song:  
+   - Artist: Sabrina Carpenter ✅
+   - Song:  ❌
 
 ---
 
 ## Round 7: General Knowledge
-1.  Turner
-2.  June
-3.  Down
-4.  Big Hero 6
-5.  1926
-6.  1666
+1.  Turner ✅
+2.  June ✅
+3.  Down ✅
+4.  Big Hero 6 ✅
+5.  1926 ✅
+6.  1666 ❌
 
 **Knockout Questions**:  
-1.  Police Officer
-2.  Requiem
-3.  Mount Fuji
-4.  Iambic
-5.  Christian Bale
-6.  
+1.  Police Officer ✅
+2.  Requiem ✅
+3.  Mount Fuji ✅
+4.  Iambic ✅
+5.  Christian Bale ✅
+6.  ❌
 
 ---
 
 ## Round 8: Guess the Year for the Tech
-1.  1986
-2.  1991
-3.  1992
-4.  1999
-5.  2004
-6.  2012
-7.  2018
-8.  2022
+1.  1986 ❌
+2.  1991 ❌
+3.  1992 ❌
+4.  1999 ❌
+5.  2004 ✅
+6.  2012 ✅
+7.  2018 ❌
+8.  2022 ❌
 
 ---
 
 ## Round 9: Christmas Round
-1.  34 + 3 + 9 = 46
-2.  Beatles
-3.  13
-4.  Tom Hanks
-5.  Germany
-6.  KFC
-7.  Turkiye
-8.  Snow
-9.  4
-10.  3pm
+1.  34 + 3 + 9 = 46 ✅
+2.  Beatles ✅
+3.  13 ✅
+4.  Tom Hanks ✅
+5.  Germany ✅
+6.  KFC ✅
+7.  Turkiye ✅
+8.  Snow ❌
+9.  4 ✅
+10.  3pm ✅
+
+32 + 34 = 66
+
+
+# total 66
