@@ -2,65 +2,70 @@
 
 ## Round 1: First Line of Famous Matt’s Wikipedia Pages
 1. **Question 1**:  
-   - Surname: Groening 
+   - Surname: Groening  - 1
    - Year: 1958
 2. **Question 2**:  
    - Surname:  Damon
    - Year:  1986
 3. **Question 3**:  
-   - Surname:  LeBlanc
+   - Surname:  LeBlanc  - 1
    - Year:  1969
 4. **Question 4**:  
-   - Surname: Stone 
+   - Surname: Stone   - 1
    - Year:  1977
 5. **Question 5**:  
-   - Surname:  Parker
+   - Surname:  Parker  - 1
    - Year:  1975
+
+4/10
 
 ---
 
 ## Round 2: Picture Round 1 (Baby Pictures)
-1.  Matt heery
+1.  Matt heery  - 1
 2.  Gwion
-3.  Guy
+3.  Guy  - 1
 4.  Gustav
-5.  Lalitha
-6.  Alex Pav
-7.  Tom Hepworth
-8.  Holly
+5.  Lalitha  - 1
+6.  Alex Pav  
+7.  Tom Hepworth  - 1
+8.  Holly  - 1
 9.  Callum
-10.  Supratik
-11.  Priya
-12.  Laurence
+10.  Supratik  - 1
+11.  Priya  - 1
+12.  Laurence  
+
+7/12
 ---
 
 ## Round 3: Music Mashups 1
 1. **Mashup 1**:  
-   - Artist:  will.i.am britney
-   - Song:  scream and shout
-   - Artist:  tear for fears
-   - Song:  Shout
+   - Artist:  will.i.am britney - 1
+   - Song:  scream and shout  - 1
+   - Artist:  tear for fears  - 1
+   - Song:  Shout  - 1
 2. **Mashup 2**:  
-   - Artist:  robbie williams
+   - Artist:  robbie williams  - 1
    - Song:  she
    - Artist:  
    - Song:  
 3. **Mashup 3**:  
-   - Artist:  What a wonderful world
-   - Song:  louis armstrong
-   - Artist: radiohead  
-   - Song:  no surprises
+   - Artist:  What a wonderful world  - 1
+   - Song:  louis armstrong  - 1
+   - Artist: radiohead  - 1
+   - Song:  no surprises  - 1
 4. **Mashup 4**:  
-   - Artist:  coldplay
-   - Song:  fix you
+   - Artist:  coldplay  - 1
+   - Song:  fix you  - 1
    - Artist:  coldplay
    - Song:  the scientist
 5. **Mashup 5**:  
-   - Artist:  nirvana
-   - Song:  smells like teen spirit
-   - Artist:  song 2
-   - Song:  blur
+   - Artist:  nirvana  - 1
+   - Song:  smells like teen spirit  - 1
+   - Artist:  song 2  - 1
+   - Song:  blur  - 1
 
+15/20
 ---
 
 ## Round 4: Guess the Month 2024
