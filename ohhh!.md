@@ -79,18 +79,18 @@
 ------------ 29 -------------
 
 ## Round 5: Picture Round 2 (WFH Set Up)
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
-9.  
-10.  
-11.
-12.
+1.  Lalitha
+2.  Matt H
+3.  Alex
+4.  Supratik
+5.  James
+6.  Holly
+7.  Thomas H
+8.  Gustav
+9.  Tom H
+10. Guy 
+11. Priya
+12. Ian
 
 ---
 
@@ -99,58 +99,58 @@
    - Artist:  
    - Song:  
 2. **Song 2**:  
-   - Artist:  
-   - Song:  
+   - Artist: Mariah Carey 
+   - Song: All I Want for Christmas is You
 3. **Song 3**:  
    - Artist:  
    - Song:  
 4. **Song 4**:  
-   - Artist:  
+   - Artist: The Darkness  
    - Song:  
 5. **Song 5**:  
-   - Artist:  
+   - Artist: Doja Cat
    - Song:  
 
 ---
 
 ## Round 7: General Knowledge
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
+1. Turner Prize
+2. May
+3. Antrim
+4. Guardians of the Galaxy
+5. 1945
+6. 1634
 
 **Knockout Questions**:  
-1.  
-2.  
-3.  
-4.  
-5.  
+1. Police officer
+2. 
+3. Mount Fuji 
+4. Iambic
+5. Christian Bale
 6.  
 
 ---
 
 ## Round 8: Guess the Year for the Tech
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
+1. 1989
+2. 1991
+3. 1987
+4. 2003 
+5. 2005
+6. 2013
+8. 2019
+7. 2022
 
 ---
 
 ## Round 9: Christmas Round
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
-9.  
-10.  
+1. 32 + 3 + 12 = 47
+2. The Beatles
+3. 10 + 2 + 1 + 1 = 14
+4. Andy Serkas
+5. Germany
+6. KFC
+7. Turkiye
+8. Birthday
+9. Three
+10. 3PM
