@@ -90,18 +90,18 @@
 ---
 
 ## Round 5: Picture Round 2 (WFH Set Up)
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
-9.  
-10.  
-11.
-12.
+1.  Tom Helpworth
+2.  Guy
+3.  Oliver
+4.  James 
+5.  Phil
+6.  Holly 
+7.  Lalitha
+8.  Gustav
+9.  Supratik 
+10. Matt Heery
+11. Priya
+12. Alex P
 
 ---
 
@@ -110,11 +110,11 @@
    - Artist:  
    - Song:  
 2. **Song 2**:  
-   - Artist:  
-   - Song:  
+   - Artist:  Marirah Carey
+   - Song:  All I want for Xmas
 3. **Song 3**:  
-   - Artist:  
-   - Song:  
+   - Artist:  Jackson 5
+   - Song:  Santa Claus is coming to town
 4. **Song 4**:  
    - Artist:  
    - Song:  
@@ -125,43 +125,43 @@
 ---
 
 ## Round 7: General Knowledge
-1.  
-2.  
-3.  
+1.  Turner
+2.  May 29th
+3.  Fermanagh
 4.  
 5.  
-6.  
+6.  1604
 
 **Knockout Questions**:  
-1.  
+1.  Policeman
 2.  
-3.  
-4.  
-5.  
+3.  Fuji
+4.  Iambic
+5.  Christian Bale
 6.  
 
 ---
 
 ## Round 8: Guess the Year for the Tech
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
+1. Nokia phone: 1986
+2. WWW: 1972
+3. Super Nintendo: 1993
+4. Ipod: 2000
+5. Facebook: 2003
+6. Rapsberry Pi: 2010
+7. FaceID: 2014
+8. ChatGpt: 2022
 
 ---
 
 ## Round 9: Christmas Round
-1.  
+1.  41
 2.  
-3.  
+3.  12
 4.  
-5.  
-6.  
-7.  
+5.  Germany
+6.  KFC
+7.  Romania
 8.  
-9.  
-10.  
+9.  4
+10. 3pm

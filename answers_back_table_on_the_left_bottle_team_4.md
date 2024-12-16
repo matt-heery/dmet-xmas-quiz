@@ -4,7 +4,7 @@
 1. **Question 1**:  
    - Surname: Groening  - 1
    - Year: 1958
-2. **Question 2**:  
+2. **Question 2**:
    - Surname:  Damon
    - Year:  1986
 3. **Question 3**:  
@@ -75,13 +75,13 @@
 2. **Question 2**:  
    - Month:  Novemeber - 1
    - Date:  07/11/2024
-3. **Question 3**:  
+3. **Question 3**:
    - Month:  february
    - Date:  21/02/2024
-4. **Question 4**:  
+4. **Question 4**:
    - Month:  october
    - Date:  12/10/2024
-5. **Question 5**:  
+5. **Question 5**:
    - Month:  March
    - Date:  23-24/03/2024
 6. **Question 6**:  
@@ -92,78 +92,79 @@
 ---
 
 ## Round 5: Picture Round 2 (WFH Set Up)
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
-9.  
-10.  
-11.
-12.
+1. Matt Heery
+2.  Oliver
+3.  Oliver
+4.  Oliver
+5.  Tom Hepworth
+6.  Holly
+7.  Alex Pav
+8.  Oliver
+9.  Oliver
+10. Guy
+11. Priya
+12. Oliver
 
 ---
 
 ## Round 6: Christmas Songs
-1. **Song 1**:  
-   - Artist:  
-   - Song:  
-2. **Song 2**:  
-   - Artist:  
-   - Song:  
-3. **Song 3**:  
-   - Artist:  
-   - Song:  
-4. **Song 4**:  
-   - Artist:  
-   - Song:  
-5. **Song 5**:  
-   - Artist:  
-   - Song:  
+1. **Song 1**:
+   - Artist:
+   - Song: Christmas cheer is here
+2. **Song 2**:
+   - Artist:   Mariah Carey
+   - Song:  All I want
+3. **Song 3**:
+   - Artist: The song that starts with "you're here, waiting for cheer"
+   - Song:  Underneath the Christmas tree
+4. **Song 4**:
+   - Artist:   Bangles
+   - Song: Christmas Wrapping
+5. **Song 5**:
+   - Artist:  Sabrina Carpenter
+   - Song:
 
 ---
 
 ## Round 7: General Knowledge
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
+1. Turner Prize
+2. June
+3. ulster
+4. big hero 6
+5. 1928
+6. 1662
 
-**Knockout Questions**:  
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
+**Knockout Questions**:
+# Last letter of previous Q is first letter of next answer
+1. police officer
+2. requiem (for a dream)
+3. mount fuji
+4. iambic
+5. Christian bale
+6.
 
 ---
 
 ## Round 8: Guess the Year for the Tech
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
+1. 1984
+2. 1990
+3. 1995
+4. 2001
+5. 2007
+6. 2010
+7. 2018
+8. 2022
 
 ---
 
 ## Round 9: Christmas Round
-1.  
-2.  
-3.  
-4.  
-5.  
-6.  
-7.  
-8.  
-9.  
-10.  
+1.  6 + 3 + 9 = 18
+2. beatles
+3. 15 = 10 + 3 + 1 + 1
+5. tom hanks
+4. Norway
+6. KFC (fried chicken)
+7. Germany
+8. happy
+9. 3
+10. 3.30pm
