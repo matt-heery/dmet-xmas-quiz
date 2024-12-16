@@ -70,10 +70,10 @@
 
 ## Round 4: Guess the Month 2024
 1. **Question 1**:  
-   - Month:  june
+   - Month:  june - 1
    - Date:  06/06/2024
 2. **Question 2**:  
-   - Month:  Novemeber
+   - Month:  Novemeber - 1
    - Date:  07/11/2024
 3. **Question 3**:  
    - Month:  february
@@ -85,9 +85,10 @@
    - Month:  March
    - Date:  23-24/03/2024
 6. **Question 6**:  
-   - Month:  March
+   - Month:  March  - 1
    - Date:  06/03/2024
 
+3/12
 ---
 
 ## Round 5: Picture Round 2 (WFH Set Up)
